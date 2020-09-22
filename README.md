@@ -10,4 +10,28 @@
 1) Create a 'style' file with 'touch style.css'
 1) Create an 'app.js' file with 'touch app.js'
 
+# This is the biggest header!!
 
+## This is a medium header!
+
+### This is a small header.
+
+**Lets get bold!**
+
+_Now lets lean._
+
+* An
+* unordered
+* list.
+    * Another
+    * list
+    * without
+    * order.
+
+1. Order
+1. This
+1. List
+
+`Backtick code`
+
+`const math = 2 + 2;`
